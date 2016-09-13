@@ -6,7 +6,12 @@
         "appID": "8R239CPN4Y.com.eurodate.ios",
         "paths": [
           "/people/",
-          "/purchase/"
+          "/people/*/",
+          "/people/*/photos/",
+          "/people/*/photos/*/",
+          "/purchase/",
+          "/invitations/",
+          "/dialogs/*/","
         ]
       }
     ]
