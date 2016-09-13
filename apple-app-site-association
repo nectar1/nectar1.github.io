@@ -11,7 +11,7 @@
           "/people/*/photos/*/",
           "/purchase/",
           "/invitations/",
-          "/dialogs/*/","
+          "/dialogs/*/"
         ]
       }
     ]
